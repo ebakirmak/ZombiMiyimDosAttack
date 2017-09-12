@@ -1,0 +1,18 @@
+c:\users\wotan\documents\visual studio 2012\Projects\Dos atk\Dos atk\bin\Debug\Dos atk.exe.config
+c:\users\wotan\documents\visual studio 2012\Projects\Dos atk\Dos atk\bin\Debug\Dos atk.exe
+c:\users\wotan\documents\visual studio 2012\Projects\Dos atk\Dos atk\bin\Debug\Dos atk.pdb
+c:\users\wotan\documents\visual studio 2012\Projects\Dos atk\Dos atk\obj\Debug\Dos atk.csprojResolveAssemblyReference.cache
+c:\users\wotan\documents\visual studio 2012\Projects\Dos atk\Dos atk\obj\Debug\Dos_atk.Form1.resources
+c:\users\wotan\documents\visual studio 2012\Projects\Dos atk\Dos atk\obj\Debug\Dos_atk.Properties.Resources.resources
+c:\users\wotan\documents\visual studio 2012\Projects\Dos atk\Dos atk\obj\Debug\Dos atk.csproj.GenerateResource.Cache
+c:\users\wotan\documents\visual studio 2012\Projects\Dos atk\Dos atk\obj\Debug\Dos atk.exe
+c:\users\wotan\documents\visual studio 2012\Projects\Dos atk\Dos atk\obj\Debug\Dos atk.pdb
+D:\BELGELER\YAZILIM PROJELERİM\3. Zombimiyim 2015\AppSource\Dos atk\Dos atk\Dos atk\bin\Debug\Dos atk.exe.config
+D:\BELGELER\YAZILIM PROJELERİM\3. Zombimiyim 2015\AppSource\Dos atk\Dos atk\Dos atk\obj\Debug\Dos atk.exe
+D:\BELGELER\YAZILIM PROJELERİM\3. Zombimiyim 2015\AppSource\Dos atk\Dos atk\Dos atk\obj\Debug\Dos atk.pdb
+D:\BELGELER\YAZILIM PROJELERİM\3. Zombimiyim 2015\AppSource\Dos atk\Dos atk\Dos atk\bin\Debug\Dos atk.exe
+D:\BELGELER\YAZILIM PROJELERİM\3. Zombimiyim 2015\AppSource\Dos atk\Dos atk\Dos atk\bin\Debug\Dos atk.pdb
+D:\BELGELER\YAZILIM PROJELERİM\3. Zombimiyim 2015\AppSource\Dos atk\Dos atk\Dos atk\obj\Debug\Dos atk.csprojResolveAssemblyReference.cache
+D:\BELGELER\YAZILIM PROJELERİM\3. Zombimiyim 2015\AppSource\Dos atk\Dos atk\Dos atk\obj\Debug\Dos_atk.Form1.resources
+D:\BELGELER\YAZILIM PROJELERİM\3. Zombimiyim 2015\AppSource\Dos atk\Dos atk\Dos atk\obj\Debug\Dos_atk.Properties.Resources.resources
+D:\BELGELER\YAZILIM PROJELERİM\3. Zombimiyim 2015\AppSource\Dos atk\Dos atk\Dos atk\obj\Debug\Dos atk.csproj.GenerateResource.Cache
